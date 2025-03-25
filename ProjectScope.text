@@ -1,0 +1,110 @@
+📌 Machine Learning Model Project Scope Document
+🚀 Strategic Data-Driven Media Campaign Evaluation
+📅 Date: March 2025
+📌 Author: Brian Balbuena
+📩 Contact: (profitwithdata@gmail.com / https://www.linkedin.com/in/profitwithdata/ / GitHub)
+
+📜 Table of Contents
+📌 Project Overview
+🎯 Business Problem
+📊 Data Overview
+🔍 Machine Learning Approach
+🛠️ Tech Stack
+📈 Model Evaluation & Metrics
+🎭 Scenario Analysis & Deployment
+💡 Expected Outcomes & Impact
+📁 Deliverables
+📩 Contact Information
+📌 1. Project Overview
+This project builds a data-driven framework to evaluate and optimize media campaign performance. Using machine learning models, we predict customer spending and response rates, allowing for better budget allocation and campaign targeting.
+
+🎯 2. Business Problem
+Companies spend millions on marketing campaigns, yet many campaigns fail due to inefficient targeting. This project aims to:
+✅ Predict customer spending based on past behavior.
+✅ Identify customers most likely to respond to a campaign.
+✅ Optimize ad spend allocation across different channels.
+
+📌 Key Questions:
+
+How much will a customer likely spend after seeing a campaign?
+Which customers are most likely to engage with a campaign?
+What-if we adjusted marketing spend? How would it impact response rates?
+📊 3. Data Overview
+✅ Source: Marketing campaign performance dataset (BigQuery)
+✅ Size: 2,240 rows x 29 columns
+✅ Key Variables:
+
+Demographics: Age, Income, Family Size
+Customer Behavior: Purchase history, web interactions
+Marketing Performance: Ad spend, campaign responses
+📌 Feature Engineering Includes:
+✅ Customer engagement rate
+✅ Total spending across channels
+✅ Time since first purchase
+
+🔍 4. Machine Learning Approach
+📌 Predictive Modeling Tasks
+1️⃣ Regression Task: Predict Total Spending ($) per customer
+
+Target: Total_Spending
+Model Used: XGBoost Regressor
+2️⃣ Classification Task: Predict Campaign Response (Yes/No)
+
+Target: Response (0/1)
+Model Used: Random Forest Classifier
+📌 Preprocessing Steps:
+✅ Handle missing values in Income.
+✅ Encode categorical variables (Education, Marital_Status).
+✅ Scale numerical variables where necessary.
+
+🛠️ 5. Tech Stack
+✅ Programming Languages: Python, SQL
+✅ Cloud Platform: Google Cloud Platform (BigQuery)
+✅ ML Libraries: scikit-learn, XGBoost, SHAP
+✅ Visualization: Tableau, Power BI, Streamlit
+
+📈 6. Model Evaluation & Metrics
+📌 Regression Model (Spending Prediction)
+✅ Mean Absolute Error (MAE) → Measures prediction accuracy.
+✅ R-Squared Score (R²) → Explains variance explained by the model.
+
+📌 Classification Model (Response Prediction)
+✅ Accuracy Score → Measures overall correctness.
+✅ Precision & Recall → Important for detecting engaged customers.
+
+📌 Explainability: Using SHAP (SHapley Values) to understand model predictions.
+
+🎭 7. Scenario Analysis & Deployment
+📌 What-If Analysis (Campaign Budget Scenarios)
+✅ Scenario A: Increase social media spend by 20% 🚀
+✅ Scenario B: Reduce spending on low-performing ads 📉
+✅ Scenario C: Shift budget to most engaged customer segments 🎯
+
+📌 Deployment Plan
+✅ Model & API: FastAPI / Flask
+✅ Dashboard: Tableau / Power BI / Streamlit
+✅ Cloud Deployment: GCP App Engine
+
+💡 8. Expected Outcomes & Impact
+📌 For Business Decision-Makers:
+✅ Improved ROI on marketing spend (15-30% higher conversion rates).
+✅ Identify high-value customers for better targeting.
+✅ Automate campaign analysis for data-driven decision-making.
+
+📌 For Data Science Enthusiasts:
+✅ Demonstrates end-to-end machine learning pipeline.
+✅ Showcases real-world predictive modeling.
+✅ Highlights cloud-based ML deployment.
+
+📁 9. Deliverables
+✅ Cleaned Dataset (Stored in BigQuery).
+✅ Trained Machine Learning Models (Regression & Classification).
+✅ Interactive Dashboard (Tableau / Power BI / Streamlit).
+✅ Final Presentation Deck (For stakeholders).
+✅ GitHub Repository (Code + Documentation).
+
+📩 10. Contact Information
+📌 Author: Brian Balbuena
+📌 LinkedIn: [Your LinkedIn Profile]
+📌 GitHub: [Your GitHub Repo]
+📌 Portfolio: Profitwithdata.com

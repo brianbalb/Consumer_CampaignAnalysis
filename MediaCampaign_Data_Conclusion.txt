@@ -1,0 +1,56 @@
+📊 Customer Analytics Overview – Key Insights Summary
+1. 🧮 Customer Spending Distribution
+Insight:
+The majority of customers fall into the low spending bracket, with a steep drop in count as spending increases.
+
+~55% of customers spend less than $500
+
+Very few customers cross the $2,000 threshold
+
+Action recommended: 
+Focus on upselling and loyalty programs to move mid-tier spenders upward. The current base is wide, but not deep in spend.
+
+2. 💰 Income vs Total Spending by Customer Segment
+Insight:
+While income generally trends with spending, many high-income customers show lower engagement or spending.
+
+High-income outliers don’t always translate to high spend
+
+Engagement varies widely across all segments
+
+Action recommended:
+There’s an opportunity to re-target affluent low-spenders using tailored messaging or premium offerings.
+
+3. 📦 Marketing Channel Effectiveness
+Insight:
+Store purchases lead with 46% of total transactions, followed by Web (32%) and Catalog (21%).
+
+Store channel continues to outperform in volume
+
+Catalog may be underperforming or niche
+
+Action recommended:
+Invest in enhancing the in-store experience, but don’t ignore digital — Web is second-strongest and may grow with better engagement or targeting.
+
+4. ⏳ Recency vs Spending by Engagement and Segment
+Insight:
+High spenders are distributed across both recent and long-dormant customers.
+
+Low-engagement high-spenders exist — representing churn risk
+
+Some segments are active but have low spend
+
+Action recommended: 
+Implement win-back campaigns targeting lapsed high spenders, and re-engagement nudges for disengaged segments.
+
+5. 📈 Customer Acquisition Timeline
+Insight:
+Customer acquisition is steady but not growing — the average monthly intake remains around 90–110 customers.
+
+Peak months saw ~220 new customers (e.g., August)
+
+Downtrends exist that may correspond to campaign performance
+
+Stakeholder Implication:
+Use this timeline to evaluate past marketing campaigns. Invest more during proven high-yield months or experiment during lower-performing ones.
+

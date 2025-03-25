@@ -1,0 +1,51 @@
+📄 Power BI Dashboard Project Scope Document
+Project: Marketing Campaign Performance Dashboard
+Created by: Brian Balbuena
+Tool: Excel and Tableau
+
+🎯 Project Objective
+To create a dynamic and interactive dashboard that visualizes key customer and campaign metrics, enabling stakeholders marketing effectiveness assessment, identify high-value customer segments, and optimize targeting strategies.
+
+❓ Business Questions We Are Answering
+
+What is the distribution of customer spending?	
+Understand customer value tiers and focus loyalty programs accordingly
+
+Is there a relationship between income and spending?	
+Detect potential high-LTV customers and tailor premium offers
+
+Which marketing channels are generating the most revenue?	
+Optimize budget allocation for web, catalog, or in-store marketing
+
+How are our customers segmented based on their behavior?	
+Inform segmentation strategies and personalize messaging
+
+What are the key KPIs (e.g., average spending, total revenue, high spender %)?	
+Track campaign health and performance over time
+
+📊 Visuals and Rationale (recommended, add where appropriate)
+
+Visual	Purpose	Visual Type
+Customer Spending Distribution	
+Shows frequency of spending tiers; reveals value distribution	
+Histogram / Column Chart
+
+Income vs Total Spending	
+Identifies patterns between income level and customer value	
+Scatter Plot (size by Engagement)
+
+Marketing Channel Effectiveness	Displays revenue per channel; helps with channel strategy	
+Bar Chart
+
+
+🔧 Technical Deliverables
+Excel File Import: marketing_campaign_analysis.xlsx cleaned and structured
+Tableau Data Model CSV: Includes calculated columns (Total Spending, Segment)
+DAX Measures: Total Revenue, Average Spending, High Spender %
+Interactive Dashboard: Filterable by Income, Segment, Channel
+Published Report: Hosted in Tableau Public with public access
+
+📌 Expected Outcomes (MediaCampaign_DataConclustion Document)
+Data-driven decisions on marketing channel 
+Identification of valuable customer segments 
+Improved customer engagement strategies based on behavior insights
